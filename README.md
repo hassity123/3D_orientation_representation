@@ -8,5 +8,5 @@ This repository contains a Matlab script that symbolically calculates:
  - Jacobian matrix relating Euler angle velocity vector to angular velocity vector
 ...for all 24 possible Euler angle orderings.  There are 12 possible Euler angle orderings in three dimensions (xyz,yzx,zxy,xzy,zyx,yxz,zxz,xyx,yzy,zyz,xzx,yxy) which can be referenced to the fixed or moving axis system (for a total of 24 valid orderings).  
 
-## Maintainers:
- - brennanyama
+## Maintainers
+ - [brennanyama](https://github.com/brennanyama)
