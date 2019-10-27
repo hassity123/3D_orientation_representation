@@ -1,4 +1,4 @@
-# 3D_orientation_representation
+# 3D Orientation Representation
 
 This repository contains a Matlab script that symbolically calculates: 
  - three-dimensional rotation matrix
