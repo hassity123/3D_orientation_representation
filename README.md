@@ -13,9 +13,10 @@ This repository contains a Matlab script that symbolically calculates:
  
 ## Notes on nomenclature
 We assume a right-handed cartesian coordinate system
- - phi is an Euler rotation about x
- - theta is an Euler rotation about y
- - psi is an Euler rotation about z
- - dphi is the time derivative of phi (phi/dt)
- - dtheta is the time derivative of theta (theta/dt)
- - dpsi is the time derivative of psi (psi/dt)
+ - `phi` is an Euler rotation about x
+ - `theta` is an Euler rotation about y
+ - `psi` is an Euler rotation about z
+ - `dphi` is the time derivative of phi (phi/dt)
+ - `dtheta` is the time derivative of theta (theta/dt)
+ - `dpsi` is the time derivative of psi (psi/dt)
+ - `dTheta` is the Euler angle vector time derivative [`dphi`;`dtheta`;`dpsi`]
