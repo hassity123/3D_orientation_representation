@@ -10,3 +10,12 @@ This repository contains a Matlab script that symbolically calculates:
 
 ## Maintainers
  - [brennanyama](https://github.com/brennanyama)
+ 
+## Notes on nomenclature
+We assume a right-handed cartesian coordinate system
+ - phi is an Euler rotation about x
+ - theta is an Euler rotation about y
+ - psi is an Euler rotation about z
+ - dphi is the time derivative of phi (phi/dt)
+ - dtheta is the time derivative of theta (theta/dt)
+ - dpsi is the time derivative of psi (psi/dt)
