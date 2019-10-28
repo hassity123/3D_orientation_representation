@@ -19,7 +19,7 @@ We assume a right-handed cartesian coordinate system
  - `dTheta` is the Euler angle vector time derivative [`dphi`;`dtheta`;`dpsi`]
  
 ## Example output
-If you're interested in the symbolic formulation of the fixed-xyz angles, you would change lines 162 to 166 to:
+If you're interested in the symbolic formulation of the fixed-xyz angles, then change lines 162 to 166 to:
 
 ```
 RFxyz = simplify(RFxyz)
